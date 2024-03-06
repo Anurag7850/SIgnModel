@@ -1,0 +1,5 @@
+__pycache__
+templates
+index.py
+wsgi.py
+data.pickle
